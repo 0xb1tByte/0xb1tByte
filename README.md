@@ -1,7 +1,6 @@
 ### About Me :
 - My Name is Alaa
 - Areas of interest: ``Penetration Testing``, ``Red Teaming``, ``Exploit Development``
-- I’m currently studying & learning [PTXv2](https://elearnsecurity.com/product/ecptx-certification/) & [Docker](https://www.docker.com/)
 - I regularly write articles [Here](https://0xb1tbyte.github.io/) (in Arabic)
 
 ### Programming languages :
