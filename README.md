@@ -1,6 +1,6 @@
 ### About Me :
 - My Name is Alaa
-- Areas of interest: ``Penetration Testing``, ``Red Teaming``, ``Exploit Development``
+- Areas of interest: ``Malware/Exploit Development``, ``Red Teaming``, ``Adversary Emulation``
 - I regularly write articles [Here](https://0xb1tbyte.github.io/) (in Arabic)
 
 ### Programming languages :
@@ -61,5 +61,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xb1tbyte&layout=compact&exclude_repo=0xb1tbyte.github.io)](https://github.com/0xb1tbyte/github-readme-stats)
 
 
-`` last update : 20-08-2021 ``
+`` last update : 25-11-2023 ``
 
